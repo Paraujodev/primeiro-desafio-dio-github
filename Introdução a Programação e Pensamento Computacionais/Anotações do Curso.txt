@@ -1,0 +1,25 @@
+O Curso abrange os primeiros passos sobre a área, como a dedicação e prática devem fazer parte do cotidiano de um programador.
+Foi discutido as habilidades necessárias, que facilitam o cotidiano e o trabalho.
+O significado dos pilares que compõem todo o processo, bem como a decomposição do problema, quais os padrões do problema, o significado de
+abstração e por fim o ultimo pilar sobre algoritmos. Ainda no primeiro módulo vimos a aplicação desses pilares com os exemplos como:
+Perdido - Resolução que uma pessoa perdida poderia se localizar em uma floresta, se utilizando de um pensamento computacional. 
+Soma de Um intervalo - Método para facilitar e encontrar um padrão para resolução de um problema matemático.
+Advinhe um numero - Método para encontrar de uma forma mais breve um numero sugerido aleatóriamente.
+
+No segundo Módulo - Uma explicação breve sobre Lógica e as técnicas de Lógica de Programação.
+
+No terceiro módulo - Fundamentos de algoritmos
+Foi apresentado a tipologia das váriávéis entre elas, booleana, inteiro, Real.
+A estruturas condicionais, com o uso de argumentos para condicionar os resultados e a utilização de operadores na resolução do algoritmo.
+Conceito de Vetores e matrizes.
+A praticidade de se trabalhar com as funções, garantindo um código limpo, de forma mais enxuta para se editar.
+POr fim uma breve esplanação de como trabalhar com as entradas e saidas de dados.
+
+No quarto módulo - Linguagens de Programação
+Hoitória da computação como tudo começou, bem como os primeiros computadores, os primeiros programadores, como 
+chegamos as programas e computadores atuais, as contribuições de pessoas como Ada, Alan Turing, até os nomes dos 
+dias de hoje coomo, Bil Gates e Steves Jobs.
+A caracteristicas de composição de um programa de modo geral.
+
+No quinto módulo - Primeiro contato com a progrmação
+Estudo com a linguagem portugol, aplicação da lógica de programação. 
