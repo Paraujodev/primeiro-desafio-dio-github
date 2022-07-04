@@ -1,4 +1,4 @@
-# primeiro-desafio-dio-github
+# Primeiro-desafio-dio-github
 Desafio de projeto sobre Git/github da DIO.
 
 ## Links Úteis
